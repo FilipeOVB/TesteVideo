@@ -9,6 +9,7 @@ Este é um trecho de código em C++:
 Nesta disciplina aprenderei sobre:
 1. Desenvolvimento Mobile
 2. Conceitos de Densevolvimento Agil de Software
+3. Conceitos de modelagem e aquitetura de software
 
 Links uteis:
 

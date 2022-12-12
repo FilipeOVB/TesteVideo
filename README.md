@@ -4,7 +4,7 @@ Este é meu **primeiro repositorio** no *Github*.
 Este é um trecho de código em C++:
 `cout << "Ola mundo" << endl;`
 
-> Codando Feliz
+> Ciência da Computação
 
 Nesta disciplina aprenderei sobre:
 1. Desenvolvimento Mobile
